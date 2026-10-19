@@ -1,0 +1,36 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: FPDF
+Source: http://www.fpdf.org/
+
+Files: *
+Copyright: Copyright 2016 Olivier Plathey <8973aca5d7fe7c864043ba17456b9d5a-op392@contact.gandi.net>
+License: permissive
+ Permission is hereby granted, free of charge, to any person obtaining a copy
+ of this software to use, copy, modify, distribute, sublicense, and/or sell
+ copies of the software, and to permit persons to whom the software is furnished
+ to do so.
+ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
+
+Files: debian/*
+Copyright: Copyright 2016 Alessandro De Zorzi <lota@nonlontano.it>
+License: GPL-2+
+ This program is free software; you can redistribute it
+ and/or modify it under the terms of the GNU General Public
+ License as published by the Free Software Foundation; either
+ version 2 of the License, or (at your option) any later
+ version.
+ .
+ This program is distributed in the hope that it will be
+ useful, but WITHOUT ANY WARRANTY; without even the implied
+ warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR
+ PURPOSE.  See the GNU General Public License for more
+ details.
+ .
+ You should have received a copy of the GNU General Public
+ License along with this package; if not, write to the Free
+ Software Foundation, Inc., 51 Franklin St, Fifth Floor,
+ Boston, MA  02110-1301 USA
+ .
+ On Debian systems, the full text of the GNU General Public
+ License version 2 can be found in the file
+ `/usr/share/common-licenses/GPL-2'.
